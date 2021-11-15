@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a frontend engineer at [biocad](https://github.com/biocad)
+😄 Pronouns: her/she
 
 <!--
 **PaulineNemchak/PaulineNemchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
