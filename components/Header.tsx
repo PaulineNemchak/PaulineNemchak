@@ -10,7 +10,7 @@ const Header: FC = () => {
                 <Nav />
             </Container>
         </header>
-    )
+    );
 };
 
-export { Header }
+export { Header };

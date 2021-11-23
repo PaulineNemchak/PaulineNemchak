@@ -17,6 +17,6 @@ const Footer: FC = () => {
             </Container>
         </footer>
     );
-}
+};
 
-export { Footer }
+export { Footer };

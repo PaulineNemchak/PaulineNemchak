@@ -33,7 +33,7 @@ __ _\`$o,.-__  "ei-Mu~,.__ ___ \`_-dee3'o-ii~m. ____
           </Container>
       </Layout>
 
-  )
-}
+  );
+};
 
 export default Home;

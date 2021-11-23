@@ -78,7 +78,7 @@ const cv: NextPage = () => {
                 </main>
             </Container>
         </Layout>
-    )
+    );
 };
 
 export default cv;

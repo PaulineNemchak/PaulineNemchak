@@ -7,7 +7,7 @@ const Container: FC<{className?: string}> = ({ className, children }) => {
         <div className={classes}>
             { children }
         </div>
-    )
+    );
 };
 
-export { Container }
+export { Container };

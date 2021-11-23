@@ -12,7 +12,7 @@ const blog: NextPage = () => {
                 </main>
             </Container>
         </Layout>
-    )
+    );
 };
 
 export default blog;

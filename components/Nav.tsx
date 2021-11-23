@@ -17,7 +17,7 @@ const Nav: FC = () => {
                 </li>
             </ul>
         </nav>
-    )
+    );
 };
 
-export { Nav }
+export { Nav };

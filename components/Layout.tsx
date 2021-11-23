@@ -15,6 +15,6 @@ const Layout: FC<{title: string}> = ({ title, children }) => {
             <div className="noise" />
         </>
     );
-}
+};
 
 export { Layout };
