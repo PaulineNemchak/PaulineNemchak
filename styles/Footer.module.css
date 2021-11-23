@@ -1,0 +1,26 @@
+.footer {
+    margin-top: auto;
+    padding: 10px 0;
+    background: var(--yellow);
+}
+
+.container {
+    text-align: center;
+}
+
+.icon {
+    fill: var(--purple);
+}
+
+.icon:hover {
+    fill: var(--purples-light);
+}
+
+.link {
+    display: inline-flex;
+    margin-right: 6px;
+}
+
+.link:last-child {
+    margin-right: 0;
+}
