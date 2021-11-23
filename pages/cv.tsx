@@ -1,6 +1,6 @@
-import { NextPage } from "next";
-import { Layout } from "../components/Layout";
-import { Container } from "../components/Container";
+import { NextPage } from 'next';
+import { Layout } from '../components/Layout';
+import { Container } from '../components/Container';
 
 const cv: NextPage = () => {
     return(
@@ -33,7 +33,7 @@ const cv: NextPage = () => {
                                <li>
                                    i supported and added new features to those websites:
                                    ctclove.ru, domashniy.ru, chetv.ru, trikota.tv;
-                                   further i joined more.tv team and took part in making more.tv website and it's admin panel.
+                                   further i joined more.tv team and took part in making more.tv website and it&apos;s admin panel.
                                </li>
                                <li>
                                    worked on redesigning chetv, migrate from static html and css to react.js, implemented stylelint to ctclove project

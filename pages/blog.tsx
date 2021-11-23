@@ -1,6 +1,6 @@
-import {NextPage} from "next";
-import { Layout } from "../components/Layout";
-import { Container } from "../components/Container";
+import { NextPage } from 'next';
+import { Layout } from '../components/Layout';
+import { Container } from '../components/Container';
 
 const blog: NextPage = () => {
     return(
@@ -8,7 +8,7 @@ const blog: NextPage = () => {
             <Container>
                 <h1>my blog</h1>
                 <main>
-                    nothing here yet... because i'm lazy
+                    nothing here yet... because i&apos;m lazy
                 </main>
             </Container>
         </Layout>

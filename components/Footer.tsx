@@ -1,6 +1,6 @@
-import { FC } from "react";
-import { Container } from "./Container";
-import styles from "../styles/Footer.module.css";
+import { FC } from 'react';
+import { Container } from './Container';
+import styles from '../styles/Footer.module.css';
 
 const Footer: FC = () => {
     return (

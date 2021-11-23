@@ -1,7 +1,7 @@
 import React, { FC } from 'react';
 import Head from 'next/head';
 
-const DefaultHead: FC<{title: string}> = ({title}) => {
+const DefaultHead: FC<{title: string}> = ({ title }) => {
     return(
         <Head>
             <title>{title}</title>
