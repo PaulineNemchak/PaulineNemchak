@@ -15,7 +15,7 @@ const cv: NextPage = () => {
                            </h3>
                            <ul>
                                <li>
-                                   was developing web application that allows biologists constructing antibodies, keeping information about ways you can synthesise those antibodies and export data using react.js and typescript
+                                   i was developing web application that allows biologists to construct, save and export data using react.js and typescript
                                </li>
                                <li>
                                    increased test coverage
