@@ -8,7 +8,7 @@ const blog: NextPage = () => {
             <Container>
                 <h1>my blog</h1>
                 <main>
-                    nothing here yet... because i&apos;m lazy
+                    nothing here yet... because i&apos;m lazy 😪
                 </main>
             </Container>
         </Layout>
