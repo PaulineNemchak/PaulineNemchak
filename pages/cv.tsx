@@ -11,7 +11,7 @@ const cv: NextPage = () => {
                    <ul>
                        <li>
                            <h3>
-                               FRONTEND ENGINEER, BIOCAD — JUNE 2021 – PRESENT
+                               FRONTEND ENGINEER, BIOCAD — JUNE 2021 – DECEMBER 2021
                            </h3>
                            <ul>
                                <li>
