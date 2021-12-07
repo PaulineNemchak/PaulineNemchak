@@ -19,7 +19,7 @@ jobs:
           username: ${{ secrets.SSH_USERNAME }}
           passphrase: ${{ secrets.PASSPHRASE }}
 
-          script:
+          script: |
             cd ~
             sudo rm -r website
             git clone git@github.com:PaulineNemchak/PaulineNemchak.git website
