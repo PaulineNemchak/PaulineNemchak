@@ -12,11 +12,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: appleboy/ssh-action@master
         with:
-          node-version: 14
-      - run: npm ci
-      - run: npm run build
+          key: ${{secrets.SSH_KEY}}
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+
+          script:
+            cd website
+            git clone git@github.com:PaulineNemchak/PaulineNemchak.git
+            echo 'deployed'
+
 #      - name: Install doctl
 #        uses: digitalocean/action-doctl@v2
 #        with:
