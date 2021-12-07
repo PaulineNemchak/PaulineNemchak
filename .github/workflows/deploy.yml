@@ -22,7 +22,7 @@ jobs:
           script: |
             cd ~
             rm -r website
-            git clone https://github.com/PaulineNemchak/PaulineNemchak.git website
+            git clone git@github.com:PaulineNemchak/PaulineNemchak.git website
             cd website
             npm install
             npm run build
