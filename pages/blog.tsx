@@ -4,7 +4,7 @@ import { Container } from '../components/Container';
 
 const blog: NextPage = () => {
     return(
-        <Layout title='my cv'>
+        <Layout title='my blog'>
             <Container>
                 <h1>my blog</h1>
                 <main>

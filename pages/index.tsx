@@ -10,7 +10,7 @@ const Home: NextPage = () => {
                   <h1>
                       hello there
                   </h1>
-                  <pre>
+                  <pre className='capybara'>
                       {
                           `
                                  .;o,
