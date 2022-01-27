@@ -7,6 +7,7 @@
 
 html,
 body {
+  height: 100%;
   position: relative;
   box-sizing: border-box;
   padding: 0;
@@ -19,6 +20,10 @@ body {
   overflow-x: hidden;
 }
 
+#__next {
+  height: inherit;
+}
+
 *, *::before, *::after {
   box-sizing: inherit;
 }
@@ -26,7 +31,7 @@ body {
 .layout {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 100%;
 }
 
 .noise {
