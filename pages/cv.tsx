@@ -11,6 +11,28 @@ const cv: NextPage = () => {
                    <ul>
                        <li>
                            <h3>
+                               FRONTEND ENGINEER, IHS MARKIT — JANUARY 2022 – PRESENT
+                           </h3>
+                           <ul>
+                               <li>
+                                   develop a react + typescript spa for customers (b2b) from the very beginning
+                               </li>
+                               <li>
+                                   provide my expertise in frontend working in a team of back-end end devops engineers
+                               </li>
+                               <li>
+                                   make suggestions and improvements like switching from yarn1 to pnpm to improve developer experience
+                               </li>
+                               <li>
+                                   provide code review and refactor code when needed
+                               </li>
+                               <li>
+                                   increase test coverage using react testing library and playwright
+                               </li>
+                           </ul>
+                       </li>
+                       <li>
+                           <h3>
                                FRONTEND ENGINEER, BIOCAD — JUNE 2021 – DECEMBER 2021
                            </h3>
                            <ul>
