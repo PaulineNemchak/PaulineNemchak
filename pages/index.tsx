@@ -8,7 +8,7 @@ const Home: NextPage = () => {
           <Container>
               <main>
                   <h1>
-                      hello there
+                      hello there 🇺🇦
                   </h1>
                   <pre className='capybara'>
                       {
