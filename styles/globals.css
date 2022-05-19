@@ -1,21 +1,26 @@
 :root {
-  --pink: #f5e3eb;
+  --white: #fff;
   --purple: #2f2b45;
-  --purples-light: #a068b6;
-  --yellow: #fffef0;
+  --purples-light: #c737ff;
+  --yellow: #ffff00;
+  --bright-pink: #ff29f8;
+  --hightlight-color: #07faff;
+}
+
+::selection {
+  background-color: var(--hightlight-color);
 }
 
 html,
 body {
   height: 100%;
-  position: relative;
   box-sizing: border-box;
   padding: 0;
   margin: 0;
   font-family: 'M PLUS 1', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-size: 18px;
-  background: var(--pink);
+  background: var(--white);
   color: var(--purple);
   overflow-x: hidden;
 }
@@ -58,6 +63,8 @@ a:hover {
 h1 {
   font-size: 80px;
   margin-top: 0;
+  margin-left: -20px;
+  text-shadow: -4px 0px var(--bright-pink), -10px 0px var(--yellow);
 }
 
 .visually-hidden:not(:focus):not(:active) {
