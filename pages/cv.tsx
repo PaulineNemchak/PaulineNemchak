@@ -15,7 +15,7 @@ const cv: NextPage = () => {
                            </h3>
                            <ul>
                                <li>
-                                   develop a react + typescript spa for customers (b2b) from the very beginning
+                                   develop a react + typescript + redux toolkit spa for customers (b2b) from scratch
                                </li>
                                <li>
                                    provide my expertise in frontend working in a team of back-end end devops engineers
@@ -40,10 +40,10 @@ const cv: NextPage = () => {
                                    i was developing web application that allows biologists to construct, save and export data using react.js and typescript
                                </li>
                                <li>
-                                   increased test coverage
+                                   increased test coverage (using jest and react testing library)
                                </li>
                                <li>
-                                   making this app we decreased antibody development costs by reducing losing data
+                                   by making this app we decreased antibody development costs by reducing losing data
                                </li>
                            </ul>
                        </li>
@@ -53,9 +53,7 @@ const cv: NextPage = () => {
                            </h3>
                            <ul>
                                <li>
-                                   i supported and added new features to those websites:
-                                   ctclove.ru, domashniy.ru, chetv.ru, trikota.tv;
-                                   further i joined more.tv team and took part in making more.tv website and it&apos;s admin panel.
+                                   i supported and added new features to those websites: ctclove.ru, domashniy.ru, chetv.ru, trikota.tv
                                </li>
                                <li>
                                    worked on redesigning chetv, migrate from static html and css to react.js, implemented stylelint to ctclove project
@@ -63,6 +61,11 @@ const cv: NextPage = () => {
                                <li>
                                    made free lite versions of those websites i mentioned above using gatsby.js and also made a special project for domashniy: domashniy.ru/kulinariygid
                                </li>
+                           </ul>
+                           <p>
+                               further i joined more.tv team and took part in making more.tv website and it&apos;s admin panel:
+                           </p>
+                           <ul>
                                <li>
                                    added some a/b tests which helped with increasing income in 2021
                                </li>
@@ -80,10 +83,10 @@ const cv: NextPage = () => {
                            </h3>
                            <ul>
                                <li>
-                                   was developing spa using react.js which should be used by mos.ru team to make mailing to list of users easier
+                                   was developing spa using react.js which should be used to make mailing to a list of users easier
                                </li>
                                <li>
-                                   cared about accessibility and semantics of HTML so everything could be done without a mouse. it helped to increase productivity of workers who created emails
+                                   cared about accessibility and semantics of HTML so everything could be done without a mouse. it helped to increase the productivity of workers who created emails
                                </li>
                                <li>
                                    developed a library of components
@@ -93,6 +96,19 @@ const cv: NextPage = () => {
                                </li>
                                <li>
                                    was coding html emails when needed
+                               </li>
+                           </ul>
+                       </li>
+                       <li>
+                           <h3>
+                               FRONTEND ENGINEER, CITRON — JANUARY 2019 – MAY 2019
+                           </h3>
+                           <ul>
+                               <li>
+                                   was working on developing various websites in a web studio
+                               </li>
+                               <li>
+                                   used pieces of knowledge in HTML, CSS, semantics and accessibility to training other staff members like SEO specialists and designers
                                </li>
                            </ul>
                        </li>
